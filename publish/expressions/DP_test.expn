@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+<expr>    
+<group flag="Include" op="AND">
+<tag name="Others" value="Help_for_review" flag="Include" op="AND"></tag>
+<tag name="Others" value="Old_Wizards_Help" flag="Include" op="AND"></tag>
+<tag name="Others" value="Review_for_help_for_review" flag="Exclude" op="AND"></tag>
+<tag name="Others" value="Pilot_Only" flag="Exclude" op="AND"></tag></group>    </expr>

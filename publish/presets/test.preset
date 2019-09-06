@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <conditional>
+      <path>../expressions/DP_test.expn</path>
+    </conditional>
+    <toc>
+      <path>../../toc/Default.toc</path>
+      <name>Default</name>
+    </toc>
+    <index type="boolean">true</index>
+  </content>
+  <title>test project</title>
+  <type>html5</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath>C:/Users/vishwaka/Documents/My RoboHelp Projects/outputs/test project/test</outputPath>
+  <name>test</name>
+  <starterPage>index.htm</starterPage>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context type="boolean">false</context>
+    <contextLimit type="number">100</contextLimit>
+    <glossary type="boolean">true</glossary>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+  </sitemap>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+</preset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+  <prop att="Others" val="Help_for_review" backcolor="rgb(0,0,255)" color="#000000"></prop>
+  <prop att="Others" val="Old_Wizards_Help" backcolor="rgb(255,0,255)" color="#000000"></prop>
+  <prop att="Others" val="Pilot_Only" backcolor="rgb(255,255,0)" color="#000000"></prop>
+  <prop att="Others" val="Review_for_help_for_review" backcolor="rgb(128,0,0)" color="#000000"></prop>
+  <prop att="Platform" val="Online" backcolor="#00ff00"></prop>
+  <prop att="Platform" val="Print" backcolor="#ff0000"></prop>
+</val>

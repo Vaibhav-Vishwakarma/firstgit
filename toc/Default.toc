@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <page condition="Others:Review_for_help_for_review" href="../contents/Test_topic_4.htm" format="html" processing-role="normal"></page>
+  <page condition="Others:Pilot_Only" href="../contents/Test_topic_1.htm" format="html" processing-role="normal"></page>
+  <page condition="Others:Old_Wizards_Help" href="../contents/Test_topic_3.htm" format="html" processing-role="normal"></page>
+  <page condition="Others:Help_for_review" href="../contents/Test_Topic_2.htm" format="html" processing-role="normal"></page>
+  <page href="../contents/First_Topic.htm" format="html" processing-role="normal"></page>
+</map>
